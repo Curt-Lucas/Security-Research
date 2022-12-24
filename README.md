@@ -1,4 +1,4 @@
-# Security-Research
+# Security Research
 A collection of security related projects I'm involved with.
 
 
