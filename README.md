@@ -1,5 +1,5 @@
 # Security Research
-A collection of security related projects I'm involved with.
+A collection of security related projects I'm working on.
 
 
 
