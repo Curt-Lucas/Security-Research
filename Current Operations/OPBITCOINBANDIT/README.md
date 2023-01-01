@@ -1,8 +1,8 @@
-## OPBITCOINBANDIT
+# OPBITCOINBANDIT
 
 Ongoing research to audit the underlying private/public key infrastructure used by many popular cryptocurrencies today.
 
-# Attack Vectors
+## Attack Vectors
  - Compromised Credentials
  - Weak Credentials
  - Missing or Poor Encryption
