@@ -19,5 +19,5 @@ Independent Security Research, On-Site Audit, Blind Audit
  - Finished Intelligence Data
 
 ## Lessons Learned
- - Automotive grommit found within a vehicles engine bay, usually along the inside edge of the hood, can be used to circumvent security controls such as; barbed wire, razor wire or constantine wire by acting as a mechanical shield.
- - Automotive grommit, or items similar in nature, may assist in the circumvention of electrified perimeter fencing by acting as an electrical insulator. 
+ - Automotive grommit found within a vehicles engine bay, usually along the inside edge of the hood, can be used to circumvent security controls such as; barbed wire, razor wire, or concertina wire by shielding attackers from the intended countermeasures.
+ - Automotive grommit, or items similar in nature, may assist in the circumvention of electrified perimeter fencing by insulating attackers from electrical components. 
